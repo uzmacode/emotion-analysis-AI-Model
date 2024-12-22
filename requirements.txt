@@ -1,4 +1,4 @@
-﻿absl-py==2.1.0
+absl-py==2.1.0
 altair==5.5.0
 astunparse==1.6.3
 attrs==24.3.0
@@ -29,7 +29,7 @@ mdurl==0.1.2
 ml-dtypes==0.4.1
 namex==0.0.8
 narwhals==1.19.0
-numpy==1.24.3
+numpy==2.0.2
 opt_einsum==3.4.0
 optree==0.13.1
 packaging==24.2
@@ -55,6 +55,7 @@ tenacity==9.0.0
 tensorboard==2.18.0
 tensorboard-data-server==0.7.2
 tensorflow==2.18.0
+tensorflow_intel==2.18.0
 termcolor==2.5.0
 threadpoolctl==3.5.0
 toml==0.10.2
